@@ -27,14 +27,25 @@ Talking about Personal Stuffs:
 - 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
 - 💬 Enterprise application development and support
 - 👨‍💻 All of my projects are available at [Timezonedesign](http://timezonedesign)
-- 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
+- 🌱 <b>Front-end</b> : Reactjs | Vuejs | Bootstrap
 - 🌱 <b>Mobile</b> : Flutter | React Native | Xamarin | Ionic | java | kotlin | swift
 - 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
 - 🐉 <b>CMS</b> : Wordpress | Shopify
 - 📫 Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
+- 📫 <b>Blockchain</b> : BSC | Ethereum | Fantom | NFT | DApps | DeFi | DEX | Swap | Farms | Staking
 
+I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.
 
+I tend to view myself as a generalist since I try not to focus on any given technology. My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django, BlockChain to Mysql, Postgres, MongoDB, and I have 10 years of experience.
+
+As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.
+
+Also, I'm familiar with several kinds of testing systems. I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.
+
+Because of my breadth of experience, I believe that I would make an excellent addition to your team.
+
+Sincerely,
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
