@@ -71,6 +71,27 @@ Sincerely,
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+
+## My Protfolio
+### React Native app
+#### TAXI BOOKING APP
+<code><a href="https://play.google.com/store/apps/details?id=com.tuk.tuk.company.app">TukTuk Taxi app</a></code>
+<code><a href="https://play.google.com/store/apps/details?id=com.usertaxi.taxiuser">TAXI USER</a></code>
+<code><a href="https://play.google.com/store/apps/details?id=com.taxime.client">Taxi ME</a></code>
+### FITNESS APP
+<code><a href="https://play.google.com/store/apps/details?id=com.botondeauxilio.android&hl=en&gl=US">BOTÓN DE AUXILIO</a></code>
+### React
+#### MERN STACK
+<code><a href="https://www.eventhi.io/">EventHi</a></code>
+#### Web
+<code><a href="https://tuktuk-11aad.web.app/">TukTuk Taxi app</a></code>
+
+### Codeigniter
+#### LMS
+<code><a href="https://gosmartacademy.com/">Quality circle's LMS</a></code>
+### Ruby On Rails
+#### Website
+<code><a href="https://www.theshiftdrink.com/">Theshifdrink</a></code>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=friday0327&&show_icons=true&theme=radical"/>
