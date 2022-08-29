@@ -73,7 +73,7 @@ Sincerely,
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=neymarjohn&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=friday0327&&show_icons=true&theme=radical"/>
   </a>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neymarjohn&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=friday0327&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
